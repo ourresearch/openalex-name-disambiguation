@@ -1,6 +1,6 @@
 # V3
 
-Please have patience as this repo is a work in progress. All notebooks will be kept in 004 until model is deployed, at which point this repo will be reorganized into the correct directories.
+Please have patience as this repo is a work in progress. All notebooks will be kept in XXX until model is deployed, at which point this repo will be reorganized into the correct directories.
 
 ### Model Basics
 
